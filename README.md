@@ -10,12 +10,12 @@ This project is a simple HTML and CSS-based replica of the Facebook login page f
   - "Forgot password?" link for password recovery.
   - "Create new account" button for new user registration.
 
-  ![FacebookLoginBox](pic/loginbox.png)
+  ![FacebookLoginBox](pic/fbloginbox.png)
 
 - **Language Selection**:
   - Links to switch between multiple languages, including English, Hindi, Urdu, Arabic, and more.
 
-  ![FacebookLanguageTools](pic/languagesandtoolsbox.png)
+  ![FacebookLanguageTools](pic/languageandtool.png)
 
 - **Tools and Services**:
   - Links to various Facebook tools such as Messenger, Facebook Lite, Watch, Games, Marketplace, and more.
